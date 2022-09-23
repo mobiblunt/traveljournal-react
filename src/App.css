@@ -1,0 +1,39 @@
+main {
+  text-align: center;
+ 
+  width: 550px;
+  margin: auto;
+  
+}
+.headline {
+  display: flex;
+}
+
+.nav {
+  width: 550px;
+height: 55px;
+left: 0px;
+top: 0px;
+  padding-top: 15px;
+  color: white;
+  margin: auto;
+
+background: #F55A5A;
+
+}
+
+.mainImg {
+  width: 125px;
+height: 168px;
+left: 40px;
+top: 100px;
+
+
+border-radius: 5px;
+ 
+}
+
+.card {
+  display: flex;
+  text-align: left;
+}
